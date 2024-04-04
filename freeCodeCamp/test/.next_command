@@ -172,3 +172,4 @@ touch roboto.font
 mkdir lato.font
 rm -rf lato.font
 touch lato.font
+touch menlo.font
