@@ -165,3 +165,4 @@ ls --color=auto
 touch backgroud.jpg
 rm backgroud.jpg
 touch background.jpg
+touch header.png
