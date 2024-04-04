@@ -215,3 +215,4 @@ mv roboto.woff fonts/
 fint website
 find website
 find
+mv lato.ttf fonts/
