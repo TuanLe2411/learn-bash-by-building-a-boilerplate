@@ -194,3 +194,4 @@ cp header.png images/
 cp footer.jpeg i
 cp footer.jpeg ima
 cp footer.jpeg images
+cd images/
