@@ -201,3 +201,5 @@ ls --color=auto
 cd ..
 ls --color=auto
 rm header.png
+re footer.jpeg
+rm footer.jpeg
