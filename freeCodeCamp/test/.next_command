@@ -157,3 +157,4 @@ touch .gitigrore
 rm .gitigrore
 touch .gitignore
 ls --color=auto
+ls --color=auto --help
