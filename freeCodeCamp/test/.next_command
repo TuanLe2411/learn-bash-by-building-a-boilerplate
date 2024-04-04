@@ -95,3 +95,4 @@ git branch
 git branch -a
 git branch
 echo hello terminal
+pwd
