@@ -173,3 +173,4 @@ mkdir lato.font
 rm -rf lato.font
 touch lato.font
 touch menlo.font
+ls --color=auto
