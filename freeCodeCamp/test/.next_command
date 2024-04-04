@@ -101,3 +101,4 @@ cd freeCodeCamp/
 ls --color=auto
 ls --color=auto
 pwd
+ls --color=auto
