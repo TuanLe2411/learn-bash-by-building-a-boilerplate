@@ -195,3 +195,6 @@ cp footer.jpeg i
 cp footer.jpeg ima
 cp footer.jpeg images
 cd images/
+SL
+LS
+ls --color=auto
