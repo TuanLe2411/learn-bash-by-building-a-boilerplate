@@ -156,3 +156,4 @@ touch index.js
 touch .gitigrore
 rm .gitigrore
 touch .gitignore
+ls --color=auto
