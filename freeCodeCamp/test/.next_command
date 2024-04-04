@@ -96,3 +96,4 @@ git branch -a
 git branch
 echo hello terminal
 pwd
+ls --color=auto
