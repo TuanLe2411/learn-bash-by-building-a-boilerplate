@@ -126,3 +126,13 @@ clear
 ls --color=auto
 cd src
 pwd
+cd /
+ls --color=auto
+cd ..
+cd /has
+__vsc_prompt_cmd_original
+ls --color=auto
+cd workspace/
+ls --color=auto
+cd project/freeCodeCamp/node_modules/has/src/
+ls --color=auto
