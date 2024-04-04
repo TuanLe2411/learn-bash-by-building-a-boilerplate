@@ -198,3 +198,4 @@ cd images/
 SL
 LS
 ls --color=auto
+cd ..
